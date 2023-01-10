@@ -1,0 +1,20 @@
+[
+  {
+    "title": "product name",
+    "price": "product price",
+    "thumbnail": "url product photo",
+    "description": "product description",
+    "code": 1672108784951,
+    "stock": "product stock",
+    "id": 1
+  },
+  {
+    "title": "product name",
+    "price": "product price",
+    "thumbnail": "url product photo",
+    "description": "product description",
+    "code": 1672108826683,
+    "stock": "product stock",
+    "id": 2
+  }
+]
